@@ -2,34 +2,14 @@
 # A Recent Publications section created with the Pages widget.
 # This section displays recent blog posts from `content/publication/`.
 
-widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
-title = "Recent Publications"
+title = "Publications"
 subtitle = ""
 
-[content]
-  # Page type to display. E.g. post, talk, or publication.
-  page_type = "publication"
-  
-  # Choose how much pages you would like to display (0 = all pages)
-  count = 5
-  
-  # Choose how many pages you would like to offset by
-  offset = 0
-
-  # Page order. Descending (desc) or ascending (asc) date.
-  order = "desc"
-
-  # Filter posts by a taxonomy term.
-  [content.filters]
-    tag = ""
-    category = ""
-    publication_type = ""
-    exclude_featured = false
-  
 [design]
   # Toggle between the various page layout types.
   #   1 = List
@@ -37,26 +17,7 @@ subtitle = ""
   #   3 = Card
   #   4 = Citation (publication only)
   view = 2
-  
-[design.background]
-  # Apply a background color, gradient, or image.
-  #   Uncomment (by removing `#`) an option to apply it.
-  #   Choose a light or dark text color by setting `text_color_light`.
-  #   Any HTML color name or Hex value is valid.
-    
-  # Background color.
-  # color = "navy"
-  
-  # Background gradient.
-  # gradient_start = "DeepSkyBlue"
-  # gradient_end = "SkyBlue"
-  
-  # Background image.
-  # image = "background.jpg"  # Name of image in `static/img/`.
-  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-
-  # Text color (true=light or false=dark).
-  # text_color_light = true  
+  columns = "2"
   
 [advanced]
  # Custom CSS. 
@@ -65,7 +26,12 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+- Unsupervised Discovery of Decision States through Intrinsic Control  
+  Nirbhay Modhe, _Mohit Sharma_, Prithvijit Chattopadhyay, Abhishek Das, Devi Parikh, Dhruv Batra, Ramakrishna Vedantam  
+  TARL Workshop, ICLR 2019
 
-{{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-{{% /alert %}}
+
+- Easy-Mention: A Model driven Mention Recommendation System to Boost your Tweet Popularity  
+  Soumajit Pramanik, _Mohit Sharma_, Maximilien Danisch, Qinna Wang, Jean-Loup Guillaume and Bivas Mitra  
+  International Journal of Data Science and Analytics (JDSA), Springer, 2017
+
