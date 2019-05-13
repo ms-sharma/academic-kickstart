@@ -28,4 +28,4 @@ date_format = "Jan 2006"
 
 - [May 2018] Graduated from [Purdue University](https://www.purdue.edu) with an MS in Computer Science and Statistics! Boiler Up!
 
-- [Dec 2018] [Code](https://github.com/ms-sharma/Adversarial-Semisupervised-Semantic-Segmentation) for my submission for [ICLR Reproducibility Challenge 2018](https://www.cs.mcgill.ca/~jpineau/ICLR2018-ReproducibilityChallenge.html) to reproduce the results of [Adversarial Learning for Semi-Supervised Semantic Segmentation](https://arxiv.org/abs/1802.07934) now available. 
+- [Dec 2018] [Code](https://github.com/ms-sharma/Adversarial-Semisupervised-Semantic-Segmentation) for my submission for [ICLR Reproducibility Challenge 2018](https://www.cs.mcgill.ca/~jpineau/ICLR2018-ReproducibilityChallenge.html) to reproduce the results reported in [Adversarial Learning for Semi-Supervised Semantic Segmentation](https://arxiv.org/abs/1802.07934) now available. 
