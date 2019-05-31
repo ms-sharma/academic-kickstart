@@ -16,12 +16,13 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 1 
+  view = 3 
 
 [content]
   page_type = "publication"  
   count = 0
   order = "desc"
+
 [advanced]
  # Custom CSS. 
  css_style = ""

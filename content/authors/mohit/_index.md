@@ -48,6 +48,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/ms-sharma
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F6boDKUOOwsVINYImbwJs1RNCOGy_BmiwEyiwyTLiNUMX1TB6KrBcwluYsWJkk8GiJSgh7d5Ym5Ane5JAL8z1MNSGAwWQ&user=TFvVAbwAAAAJ
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: cv
